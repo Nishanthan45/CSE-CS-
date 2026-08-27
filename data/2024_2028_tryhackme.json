@@ -1,15 +1,75 @@
 {
   "batch": "2024_2028",
-  "updated_at": "2026-08-27T04:42:32.954015+00:00",
+  "updated_at": "2026-08-27T16:25:31.375058+00:00",
   "students": {
+    "3": {
+      "username": "anideebi",
+      "rooms": 22,
+      "status": "ok"
+    },
     "4": {
       "username": "deebikaellappan12",
       "rooms": 40,
       "status": "ok"
     },
+    "5": {
+      "username": "24149005",
+      "rooms": 1,
+      "status": "ok"
+    },
+    "9": {
+      "username": "dharshinisivakum",
+      "rooms": 0,
+      "status": "ok"
+    },
+    "10": {
+      "username": "24149010",
+      "rooms": 0,
+      "status": "ok"
+    },
+    "11": {
+      "username": "dineshop0001",
+      "rooms": 4,
+      "status": "ok"
+    },
     "13": {
       "username": "CyberCracker27",
       "rooms": 154,
+      "status": "ok"
+    },
+    "23": {
+      "username": "sudo07xp",
+      "rooms": 23,
+      "status": "ok"
+    },
+    "28": {
+      "username": "mahav1303",
+      "rooms": 3,
+      "status": "ok"
+    },
+    "29": {
+      "username": "mahi14ma06",
+      "rooms": 2,
+      "status": "ok"
+    },
+    "31": {
+      "username": "mydhili772007",
+      "rooms": 2,
+      "status": "ok"
+    },
+    "32": {
+      "username": "naghul9798",
+      "rooms": 59,
+      "status": "ok"
+    },
+    "33": {
+      "username": "Nishanthan45",
+      "rooms": 14,
+      "status": "ok"
+    },
+    "35": {
+      "username": "24149035",
+      "rooms": 0,
       "status": "ok"
     },
     "36": {
@@ -19,7 +79,32 @@
     },
     "37": {
       "username": "DARKKNIGHT19",
-      "rooms": 52,
+      "rooms": 53,
+      "status": "ok"
+    },
+    "44": {
+      "username": "CyberGhost457",
+      "rooms": 36,
+      "status": "ok"
+    },
+    "46": {
+      "username": "SABARMATHI",
+      "rooms": 6,
+      "status": "ok"
+    },
+    "47": {
+      "username": "24149047",
+      "rooms": 0,
+      "status": "ok"
+    },
+    "48": {
+      "username": "samusiva0506",
+      "rooms": 6,
+      "status": "ok"
+    },
+    "50": {
+      "username": "sanjay006",
+      "rooms": 3,
       "status": "ok"
     },
     "52": {
@@ -27,9 +112,14 @@
       "rooms": 40,
       "status": "ok"
     },
+    "53": {
+      "username": "Sindhujachandrasekar",
+      "rooms": 7,
+      "status": "ok"
+    },
     "55": {
       "username": "Hexsenberg",
-      "rooms": 202,
+      "rooms": 203,
       "status": "ok"
     },
     "59": {
